@@ -1,4 +1,4 @@
-# IRFT002-module KICAD project
+# IRFT002-module KiCad project
 
 The [IRFT002 HEXFET Power Module](IRFT002.pdf) was commonly used in the mid-90s for hard drive spindle motor control. Typical drive models include the MAXTOR XT-8760 series of drives. Decades later, many of these modules have failed either due to overload/overheat or contamination from adjacent leaking electrolytic capacitors.
 
