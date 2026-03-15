@@ -5,6 +5,8 @@ The [IRFT002 HEXFET Power Module](IRFT002.pdf) was commonly used in the mid-90s 
 Since this device is now unobtainium I designed this PCB module as a (mostly) drop-in replacement part using modern devices, specifically the [Goford Semiconductor G18NP06Y](https://www.gofordsemi.com/upload/cn/propdf/G18NP06Y.pdf). 
 Advances in semiconductor technology make these MOSFETs superior to the original IRFT002 in every way (higher continuous current, lower Rds, etc.).
 
+NOTE: I don't show the heatsink in the photo below of the module mounted on the hard drive - but make sure you reinstall it! You may need a insulated spacer depending on your drive.
+
 <img alt="Photo of the completed IRFT002 module replacement" src="./images/complete_front.jpg" style="width:75%; height:auto;" />
 
 <img alt="Photo of the installed IRFT002 module replacement" src="./images/installed_back.jpg" style="width:75%; height:auto;" />
